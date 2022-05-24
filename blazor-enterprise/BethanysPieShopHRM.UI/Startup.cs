@@ -4,8 +4,9 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using BethanysPieShopHRM.UI.Services;
-using BethanysPieShopHRM.UI.Data;
+
+
+
 using System;
 
 namespace BethanysPieShopHRM.UI
@@ -40,19 +41,11 @@ namespace BethanysPieShopHRM.UI
             }
 
             // HTTP services
-            RegisterTypedClient<IEmployeeDataService, EmployeeDataService>(pieShopURI);
-            RegisterTypedClient<ICountryDataService, CountryDataService>(pieShopURI);
-            RegisterTypedClient<IJobCategoryDataService, JobCategoryDataService>(pieShopURI);
-            RegisterTypedClient<ITaskDataService, TaskDataService>(pieShopURI);
-            RegisterTypedClient<ISurveyDataService, SurveyDataService>(pieShopURI);
-            RegisterTypedClient<ICurrencyDataService, CurrencyDataService>(pieShopURI);
-            RegisterTypedClient<IExpenseDataService, ExpenseDataService>(pieShopURI);
-            RegisterTypedClient<IJobDataService, JobsDataService>(recruitingURI);
+            
 
 
             // Helper services
-            services.AddTransient<IEmailService, EmailService>();
-            services.AddTransient<IExpenseApprovalService, ManagerApprovalService>();
+            
             services.AddProtectedBrowserStorage();
         }
 
