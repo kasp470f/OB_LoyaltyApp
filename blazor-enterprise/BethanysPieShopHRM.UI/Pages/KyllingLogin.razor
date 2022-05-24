@@ -1,0 +1,56 @@
+﻿@page "/kyllinglogin"
+
+
+<h3>Login til Kylling Og Co</h3>
+<h3></h3>
+<input type="number" @bind-value="UserInput" />
+<button @onclick="Click" type="button">Create login</button>
+
+
+@code {
+
+
+    [Inject]
+    private NavigationManager navManager { get; set; }
+
+    List<int> PhoneNumberList = new List<int>() { 11111111 };
+
+    private int UserInput { get; set; }
+
+
+    private void Click(MouseEventArgs mouseEventArgs)
+    {
+        if (PhoneNumberList.Contains(UserInput))
+        {
+            //Give error
+        }
+        else
+        {
+            AddToList(UserInput);
+            navManager.NavigateTo("/KyllingLoyalty");
+
+
+        }
+
+
+
+
+
+    }
+    private void AddToList(int i)
+    {
+        PhoneNumberList.Add(i);
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+}
