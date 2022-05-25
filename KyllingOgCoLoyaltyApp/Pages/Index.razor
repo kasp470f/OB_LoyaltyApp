@@ -5,7 +5,7 @@
 <h3></h3>
 <input type="number" @bind-value="UserInput" />
 <button @onclick="Click" type="button">Create login</button>
-
+<p style="@validation color:red;">Phone number is already created!</p>
 
 @code {
 
@@ -17,19 +17,20 @@
 
     private int UserInput { get; set; }
 
+    private string validation { get; set; } = "display:none;";
+
 
     private void Click(MouseEventArgs mouseEventArgs)
     {
         if (PhoneNumberList.Contains(UserInput))
         {
-            //Give error
+            validation = "display:block;";
         }
         else
         {
             AddToList(UserInput);
             navManager.NavigateTo("/KyllingLoyalty");
-
-
+            validation = "display:none;";
         }
 
 

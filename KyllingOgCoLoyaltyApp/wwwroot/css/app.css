@@ -32,6 +32,8 @@ nav {
     background-color: #a593c2;
     border-color: #a593c2;
     width: 240px;
+    display: flex;
+    justify-content: center;
 }
 
 
