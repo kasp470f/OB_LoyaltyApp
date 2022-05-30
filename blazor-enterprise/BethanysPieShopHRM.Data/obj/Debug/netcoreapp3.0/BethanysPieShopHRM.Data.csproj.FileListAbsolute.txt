@@ -1,0 +1,13 @@
+C:\Users\Skies\Documents\GitHub\OB_LoyaltyApp\blazor-enterprise\BethanysPieShopHRM.Data\bin\Debug\netcoreapp3.0\BethanysPieShopHRM.Data.deps.json
+C:\Users\Skies\Documents\GitHub\OB_LoyaltyApp\blazor-enterprise\BethanysPieShopHRM.Data\bin\Debug\netcoreapp3.0\BethanysPieShopHRM.Data.dll
+C:\Users\Skies\Documents\GitHub\OB_LoyaltyApp\blazor-enterprise\BethanysPieShopHRM.Data\bin\Debug\netcoreapp3.0\BethanysPieShopHRM.Data.pdb
+C:\Users\Skies\Documents\GitHub\OB_LoyaltyApp\blazor-enterprise\BethanysPieShopHRM.Data\bin\Debug\netcoreapp3.0\BethanysPieShopHRM.Shared.dll
+C:\Users\Skies\Documents\GitHub\OB_LoyaltyApp\blazor-enterprise\BethanysPieShopHRM.Data\bin\Debug\netcoreapp3.0\BethanysPieShopHRM.Shared.pdb
+C:\Users\Skies\Documents\GitHub\OB_LoyaltyApp\blazor-enterprise\BethanysPieShopHRM.Data\obj\Debug\netcoreapp3.0\BethanysPieShopHRM.Data.csproj.AssemblyReference.cache
+C:\Users\Skies\Documents\GitHub\OB_LoyaltyApp\blazor-enterprise\BethanysPieShopHRM.Data\obj\Debug\netcoreapp3.0\BethanysPieShopHRM.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skies\Documents\GitHub\OB_LoyaltyApp\blazor-enterprise\BethanysPieShopHRM.Data\obj\Debug\netcoreapp3.0\BethanysPieShopHRM.Data.AssemblyInfoInputs.cache
+C:\Users\Skies\Documents\GitHub\OB_LoyaltyApp\blazor-enterprise\BethanysPieShopHRM.Data\obj\Debug\netcoreapp3.0\BethanysPieShopHRM.Data.AssemblyInfo.cs
+C:\Users\Skies\Documents\GitHub\OB_LoyaltyApp\blazor-enterprise\BethanysPieShopHRM.Data\obj\Debug\netcoreapp3.0\BethanysPieShopHRM.Data.csproj.CoreCompileInputs.cache
+C:\Users\Skies\Documents\GitHub\OB_LoyaltyApp\blazor-enterprise\BethanysPieShopHRM.Data\obj\Debug\netcoreapp3.0\BethanysPieShopHRM.Data.csproj.CopyComplete
+C:\Users\Skies\Documents\GitHub\OB_LoyaltyApp\blazor-enterprise\BethanysPieShopHRM.Data\obj\Debug\netcoreapp3.0\BethanysPieShopHRM.Data.dll
+C:\Users\Skies\Documents\GitHub\OB_LoyaltyApp\blazor-enterprise\BethanysPieShopHRM.Data\obj\Debug\netcoreapp3.0\BethanysPieShopHRM.Data.pdb

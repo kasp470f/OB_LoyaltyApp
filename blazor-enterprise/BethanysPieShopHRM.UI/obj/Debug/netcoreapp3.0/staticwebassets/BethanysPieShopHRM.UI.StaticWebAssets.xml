@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="_content/BethanysPieShopHRM.ComponentsLibrary" Path="C:\Users\Skies\Documents\GitHub\OB_LoyaltyApp\blazor-enterprise\BethanysPieShopHRM.ComponentsLibrary\wwwroot\" />
+  <ContentRoot BasePath="_content/Microsoft.AspNetCore.ProtectedBrowserStorage" Path="C:\Users\Skies\.nuget\packages\microsoft.aspnetcore.protectedbrowserstorage\0.1.0-alpha.19521.1\build\..\staticwebassets\" />
+</StaticWebAssets>
