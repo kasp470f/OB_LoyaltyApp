@@ -195,15 +195,15 @@
       "mscorlib.dll": "sha256-pOPJrGSp+RVyYmvcT+PTaEq9fVhEFzvMs\/3Ue3S2j+A=",
       "netstandard.dll": "sha256-bY3Q1RCB\/lmUAo5AG5YDHBu5uD8OxCGAiJ+wukrs1pw=",
       "System.Private.CoreLib.dll": "sha256-25IZl0xgoqOBdkTlEjUBLmiiRGYCYI1BaFevKzE+EHk=",
-      "BlazorKyllingOgCo.Shared.dll": "sha256-P\/mfrygxrSuf5iOo\/ZcDB53+EH8t3esYDbNH9oqJXU8=",
-      "BlazorKyllingOgCo.Client.dll": "sha256-1vfaFiTqz8qSP8197UWOi6g9mjmJFJyN6GUH3Re7J88="
+      "BlazorKyllingOgCo.Shared.dll": "sha256-1H4GzlQ\/T\/6S4yxeAtuo6S0gkgF+Iz77fjY5ReRaBGc=",
+      "BlazorKyllingOgCo.Client.dll": "sha256-8TktDup1QhpfwqXxKgil1mWranKLEiJMHhVWiuFl7Bw="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "BlazorKyllingOgCo.Shared.pdb": "sha256-7kvjUS+qzxmqk73IVCYs5ibps0Onyzv4DPtHa5v4Oa0=",
-      "BlazorKyllingOgCo.Client.pdb": "sha256-NZAtm8r5O4nkJMpe8UU20zF0l0NRhC6xFX28jk18Wv0="
+      "BlazorKyllingOgCo.Shared.pdb": "sha256-yY0JkCF6GMRMKahnbg4EnHcOLJ\/KlQOoCX\/71LkfdW0=",
+      "BlazorKyllingOgCo.Client.pdb": "sha256-wbWRBu5lYKUO7dxMqXsoUCGiCkQbgABBlb3XLusSHiw="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-Ek+C0V\/4GBnUGH1\/X20UjHhjyp7se2MX+2RHWSpKSDE=",

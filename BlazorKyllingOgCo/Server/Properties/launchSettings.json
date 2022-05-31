@@ -1,6 +1,6 @@
 {
   "ConnectionStrings": {
-    "DefaultConnection": "LAPTOP-0RHHUA7C\\MSSQLSERVER01; Database=KyllingOgCoDatabase; Trusted_Connection=True;"
+    "DefaultConnection": "Server_localhost\\MSSQLSERVER01; Database=KyllingOgCoDatabase; Trusted_Connection=True;"
   },
   "iisSettings": {
     "windowsAuthentication": false,

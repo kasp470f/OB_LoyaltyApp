@@ -1,7 +1,6 @@
 C:\Users\mick7\source\repos\BlazorKyllingOgCo\BlazorKyllingOgCo\Client\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
 C:\Users\mick7\source\repos\BlazorKyllingOgCo\BlazorKyllingOgCo\Client\bin\Debug\net5.0\BlazorKyllingOgCo.Client.StaticWebAssets.xml
 C:\Users\mick7\source\repos\BlazorKyllingOgCo\BlazorKyllingOgCo\Client\bin\Debug\net5.0\BlazorKyllingOgCo.Client.dll
-C:\Users\mick7\source\repos\BlazorKyllingOgCo\BlazorKyllingOgCo\Client\bin\Debug\net5.0\ref\BlazorKyllingOgCo.Client.dll
 C:\Users\mick7\source\repos\BlazorKyllingOgCo\BlazorKyllingOgCo\Client\bin\Debug\net5.0\BlazorKyllingOgCo.Client.pdb
 C:\Users\mick7\source\repos\BlazorKyllingOgCo\BlazorKyllingOgCo\Client\bin\Debug\net5.0\wwwroot\_framework\BlazorKyllingOgCo.Client.dll
 C:\Users\mick7\source\repos\BlazorKyllingOgCo\BlazorKyllingOgCo\Client\bin\Debug\net5.0\wwwroot\_framework\BlazorKyllingOgCo.Client.pdb
@@ -632,3 +631,4 @@ C:\Users\mick7\source\repos\BlazorKyllingOgCo\BlazorKyllingOgCo\Client\obj\Debug
 C:\Users\mick7\source\repos\BlazorKyllingOgCo\BlazorKyllingOgCo\Client\obj\Debug\net5.0\BlazorKyllingOgCo.Client.dll
 C:\Users\mick7\source\repos\BlazorKyllingOgCo\BlazorKyllingOgCo\Client\obj\Debug\net5.0\ref\BlazorKyllingOgCo.Client.dll
 C:\Users\mick7\source\repos\BlazorKyllingOgCo\BlazorKyllingOgCo\Client\obj\Debug\net5.0\BlazorKyllingOgCo.Client.pdb
+C:\Users\mick7\source\repos\BlazorKyllingOgCo\BlazorKyllingOgCo\Client\obj\Debug\net5.0\refint\BlazorKyllingOgCo.Client.dll

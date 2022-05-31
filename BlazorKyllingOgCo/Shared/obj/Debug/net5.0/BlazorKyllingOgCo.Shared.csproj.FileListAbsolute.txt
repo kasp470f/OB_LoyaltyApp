@@ -1,8 +1,6 @@
 C:\Users\mick7\source\repos\BlazorKyllingOgCo\BlazorKyllingOgCo\Shared\bin\Debug\net5.0\BlazorKyllingOgCo.Shared.deps.json
 C:\Users\mick7\source\repos\BlazorKyllingOgCo\BlazorKyllingOgCo\Shared\bin\Debug\net5.0\BlazorKyllingOgCo.Shared.dll
-C:\Users\mick7\source\repos\BlazorKyllingOgCo\BlazorKyllingOgCo\Shared\bin\Debug\net5.0\ref\BlazorKyllingOgCo.Shared.dll
 C:\Users\mick7\source\repos\BlazorKyllingOgCo\BlazorKyllingOgCo\Shared\bin\Debug\net5.0\BlazorKyllingOgCo.Shared.pdb
-C:\Users\mick7\source\repos\BlazorKyllingOgCo\BlazorKyllingOgCo\Shared\obj\Debug\net5.0\BlazorKyllingOgCo.Shared.csproj.AssemblyReference.cache
 C:\Users\mick7\source\repos\BlazorKyllingOgCo\BlazorKyllingOgCo\Shared\obj\Debug\net5.0\BlazorKyllingOgCo.Shared.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\mick7\source\repos\BlazorKyllingOgCo\BlazorKyllingOgCo\Shared\obj\Debug\net5.0\BlazorKyllingOgCo.Shared.AssemblyInfoInputs.cache
 C:\Users\mick7\source\repos\BlazorKyllingOgCo\BlazorKyllingOgCo\Shared\obj\Debug\net5.0\BlazorKyllingOgCo.Shared.AssemblyInfo.cs
@@ -10,3 +8,5 @@ C:\Users\mick7\source\repos\BlazorKyllingOgCo\BlazorKyllingOgCo\Shared\obj\Debug
 C:\Users\mick7\source\repos\BlazorKyllingOgCo\BlazorKyllingOgCo\Shared\obj\Debug\net5.0\BlazorKyllingOgCo.Shared.dll
 C:\Users\mick7\source\repos\BlazorKyllingOgCo\BlazorKyllingOgCo\Shared\obj\Debug\net5.0\ref\BlazorKyllingOgCo.Shared.dll
 C:\Users\mick7\source\repos\BlazorKyllingOgCo\BlazorKyllingOgCo\Shared\obj\Debug\net5.0\BlazorKyllingOgCo.Shared.pdb
+C:\Users\mick7\source\repos\BlazorKyllingOgCo\BlazorKyllingOgCo\Shared\obj\Debug\net5.0\BlazorKyllingOgCo.Shared.csproj.AssemblyReference.cache
+C:\Users\mick7\source\repos\BlazorKyllingOgCo\BlazorKyllingOgCo\Shared\obj\Debug\net5.0\refint\BlazorKyllingOgCo.Shared.dll

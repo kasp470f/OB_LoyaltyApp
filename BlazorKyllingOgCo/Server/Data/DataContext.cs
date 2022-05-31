@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using BlazorKyllingOgCo.Shared;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,6 +13,6 @@ namespace BlazorKyllingOgCo.Server.Data
         {
 
         }
-        
+        public DbSet<Message> Messages { get; set; }
     }
 }

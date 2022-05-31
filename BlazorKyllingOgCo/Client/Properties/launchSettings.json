@@ -1,7 +1,5 @@
 {
-  "ConnectionStrings": {
-    "DefaultConnection": "LAPTOP-0RHHUA7C\\MSSQLSERVER01; Database=KyllingOgCoDatabase; Trusted_Connection=True;"
-  },
+  
   "iisSettings": {
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
